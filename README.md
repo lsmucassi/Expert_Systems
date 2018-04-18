@@ -3,10 +3,13 @@
 ## History
 Expert systems were introduced by the Stanford Heuristic Programming Project led by Edward Feigenbaum, who is sometimes termed the "father of expert systems";
 other key early contributors were Bruce Buchanan and Randall Davis.
+
 The Stanford researchers tried to identify domains where expertise was highly valued and complex, such as diagnosing infectious diseases (Mycin) and identifying unknown organic molecules (Dendral).
+
 The idea that "intelligent systems derive their power from the knowledge they possess rather than from the specific formalisms and inference schemes they use" – as Feigenbaum said – was at the time
 a significant step forward, since the past research had been focused on heuristic computational methods, culminating in attempts to develop very general-purpose problem solvers (foremostly the conjunct
 work of Allen Newell and Herbert Simon).
+
 Expert systems became some of the first truly successful forms of artificial intelligence (AI) software.
 
 ### 1 The project
